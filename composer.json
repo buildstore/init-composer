@@ -1,0 +1,12 @@
+{
+  "name": "buildstore/init",
+  "description": "",
+  "type": "project",
+  "license": "MIT",
+  "keywords": ["buildstore", "init-composer"],
+  "config": {
+    "optimize-autoloader": true,
+    "prepend-autoloader": false,
+    "sort-packages": true
+  }
+}
